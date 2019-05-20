@@ -29,8 +29,10 @@ The goals of this project were the following:
 The project includes the following files:
 * model.py containing the script to create and train the model
 * drive.py for driving the car in autonomous mode
-* model.h5 containing a trained convolution neural network 
-* P4_writeup.md summarizing the results
+* video.py to create videos of the test drives
+
+Additionally, other files which were not uploaded due to their large size:
+* model.h5 containing a trained convolution neural network
 * video_tr1.mp4 showing a video recording of the vehicle driving autonomously with model.h5 on track 1
 * video_tr2.mp4 showing a video recording of the vehicle driving autonomously with model.h5 on track 2
 
