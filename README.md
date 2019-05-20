@@ -4,7 +4,7 @@
 
 #### By Adam Gyarmati
 
-![](examples/track2.gif |width=200)
+![](examples/track2.gif | width=200)
 
 ---
 
