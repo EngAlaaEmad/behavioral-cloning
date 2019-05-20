@@ -1,10 +1,10 @@
 # Behavioral Cloning
 
-### Project #2 for Udacity Self-Driving Car Nanodegree
+### Project #4 for Udacity Self-Driving Car Nanodegree
 
 #### By Adam Gyarmati
 
-![](examples/challenge_video.gif)
+![](examples/track2.gif)
 
 ---
 
