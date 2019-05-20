@@ -4,8 +4,7 @@
 
 #### By Adam Gyarmati
 
-![](examples/track2.gif | width=200)
-<img src="examples/track2.gif" width="200">
+<img src="examples/track2.gif" width="500">
 
 ---
 
